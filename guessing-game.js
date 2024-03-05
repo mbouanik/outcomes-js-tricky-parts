@@ -25,8 +25,3 @@ function guessingGame() {
 module.exports = { guessingGame };
 
 const game = guessingGame();
-//
-console.log(game(55));
-console.log(game(65));
-console.log(game(60));
-console.log(game(60));
